@@ -1,0 +1,2 @@
+set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+python run_basics.py
